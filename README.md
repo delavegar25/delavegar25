@@ -9,6 +9,5 @@ I'm Pascal, a software developer that build performant projects and solve busine
 
 - I write tech articles on Medium.
 
-  [![Readme Card]
-  (https://github-readme-stats.vercel.app/api/pin/?username=delavegar25&repo=github-readme-stats)](https://github.com/delavegar25/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delavegar25&repo=github-readme-stats)](https://github.com/delavegar25/github-readme-stats)
   
