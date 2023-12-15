@@ -9,5 +9,5 @@ I'm Pascal, a software developer that build performant projects and solve busine
 
 - I write tech articles on Medium.
 
-  (https://github-readme-stats.vercel.app/api/pin/?username=delavegar25&show_icons=true)
+
   
